@@ -312,13 +312,18 @@ For support, email athumanimlenga@gmail.com or open an issue on GitHub.
 
 # 🚀 Quick Links
 FlutLab.io - Online Flutter IDE
+https://flutlab.io/
 
 Flutter Documentation
+https://docs.flutter.dev/
 
 Dart Language Tour
+https://dart.dev/language
+
 
 # 📦 Download APK
 You can download the latest APK from the Releases page.
+https://docs.flutter.dev/install/manual
 
 
 # 🔧 Troubleshooting
