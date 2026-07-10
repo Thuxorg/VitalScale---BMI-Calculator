@@ -3,7 +3,7 @@
 A full Functional modern, beautifully designed BMI (Body Mass Index) calculator built with Flutter. Track your body metrics with clinical precision and get personalized health insights.
 
 # **📸 Screenshots**
-<div align="center"> <table> <tr> <td align="center"><b>Welcome Screen</b></td> <td align="center"><b>Calculator</b></td> <td align="center"><b>Result Screen</b></td> </tr> <tr> <td><img src="screenshots/welcome.png" width="200" alt="Welcome Screen"/></td> <td><img src="screenshots/calculator.png" width="200" alt="Calculator"/></td> <td><img src="screenshots/result.png" width="200" alt="Result"/></td> </tr> </table> </div>
+<div align="center"> <table> <tr> <td align="center"><b>Welcome Screen</b></td> <td align="center"><b>Calculator</b></td> <td align="center"><b>Result Screen</b></td> </tr> <tr> <td><img src="screenshots/welcome.png" width="200" alt="Welcome Screen"/></td> <td><img src="https://github.com/Thuxorg/VitalScale---BMI-Calculator/blob/main/screenshots/calculator.PNG" width="200" alt="Calculator"/></td> <td><img src="screenshots/result.png" width="200" alt="Result"/></td> </tr> </table> </div>
 
 # ✨ Features
 
