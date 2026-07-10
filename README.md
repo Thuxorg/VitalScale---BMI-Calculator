@@ -133,7 +133,7 @@ Installation
 Clone the Repository
 
 bash
-git clone https://github.com/thuxorg/vital_scale.git
+git clone https://github.com/Thuxorg/VitalScale---BMI-Calculator.git
 
 cd vital_scale
 
